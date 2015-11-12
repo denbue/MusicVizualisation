@@ -1,6 +1,5 @@
 /// abstract class for audio visualization
-//  thanks to Martin Schneider
- 
+
 abstract class AudioRenderer implements AudioListener {
   float[] left;
   float[] right;
@@ -32,7 +31,7 @@ abstract class FourierRenderer extends AudioRenderer {
       leftFFT = new float[bands];
       fft.linAverages(bands);
       fft.forward(left);
-      for(int i = 0; i < bands; i++) leftFFT[i] = fft.getAvg(i);  
+      for(int i = 0; i < bands; i++) leftFFT[i] = fft.getAvg(i);
     }
   }
 }
