@@ -15,9 +15,9 @@ boolean disco = false;
 float discoSpeed = 0.01;
 ```
 
-![](https://github.com/denbue/MusicVizualisation/master/images-for-documentation/3d.png)
-![](https://github.com/denbue/MusicVizualisation/master/images-for-documentation/bars.png)
-![](https://github.com/denbue/MusicVizualisation/master/images-for-documentation/lines.png)
+![](https://raw.githubusercontent.com/denbue/MusicVizualisation/master/images-for-documentation/3d.png)
+![](https://raw.githubusercontent.com/denbue/MusicVizualisation/master/images-for-documentation/bars.png)
+![](https://raw.githubusercontent.com/denbue/MusicVizualisation/master/images-for-documentation/lines.png)
 
 
 NOTES:
